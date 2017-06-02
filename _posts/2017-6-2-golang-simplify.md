@@ -14,7 +14,10 @@ gofmt -s file.go
 
 When invoked with -s gofmt will make the following source transformations where possible.
 
+
+
 ```
+
 An array, slice, or map composite literal of the form:
 	[]T{T{}, T{}}
 will be simplified to:
