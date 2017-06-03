@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Motyar from India, Creating value using CODE. Freelance web developer
+Hi I am Motyar, Freelance web developer from India.
 
 ### Contact me
 
