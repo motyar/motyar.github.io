@@ -3,7 +3,7 @@ layout: post
 title: Golang pretty print Structure!
 ---
 
-Here is quick tip to pretty print go struc
+Here is quick tip to pretty print go struct
 
 ```
 
