@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Golang pretty print Structure!
+title: Golang pretty print Struct!
 ---
 
 Here is quick tip to pretty print go struct
